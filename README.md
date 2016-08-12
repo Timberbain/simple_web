@@ -2,4 +2,4 @@
 A docker image for starting a simple web application
 
 # TODO
-- Add database
+- Add npm-modules
